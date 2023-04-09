@@ -1,0 +1,19 @@
+p {
+    color: lightgreen;
+}
+
+.header {
+    background-color: rgb(247, 177, 177);
+    border: 1px solid #000;
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+.heading {
+    margin-top: 55px;
+}
